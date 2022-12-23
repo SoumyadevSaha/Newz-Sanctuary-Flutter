@@ -4,4 +4,4 @@ A new Flutter project (A news app).
 
 ## Getting Started
 
-This is a simple news app made in flutter using newsapi.org api
+This is a simple news app made in flutter using newsapi.org's news api
